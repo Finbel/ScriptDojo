@@ -1,0 +1,24 @@
+{
+  "name": "index",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test1:1:1": "vitest addNumbers",
+    "test1:1:2": "vitest subtractNumbers",
+    "test1:1:3": "vitest multiplyNumbers",
+    "test1:1:4": "vitest divideNumbers",
+    "test1:1:5": "vitest concatenateStrings",
+    "test1:1:6": "vitest isNumber",
+    "test1:1:7": "vitest typeOfVariable",
+    "test1:1:8": "vitest convertToNumber",
+    "test1:1:9": "vitest moduloNumbers"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vitest": "^1.6.0"
+  }
+}
